@@ -8,6 +8,6 @@ Explanation of modification:
 
 1. catvehicle_multi.launch file loads the world and multiple (currently set as 3) catvehicle model. 
 
-2.URDF has been modified to set the desired orientation of catvehicle model in the map and to turn off the camera sensor displayed during simulation.
+2. URDF has been modified to set the desired orientation of catvehicle model in the map and to turn off the camera sensor displayed during simulation.
 
 3. A new map, Real_world_sim, is made to create the suburban street environment for simuation. 
