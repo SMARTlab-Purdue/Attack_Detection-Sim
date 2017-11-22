@@ -48,6 +48,10 @@ All Copyright reserves to Jonathan Sprinkle, Sam Taylor, Alex Warren from Arizon
 
 A video demonstration for installation is also provided at http://cps-vo.org/node/26625 
 
+# Package Explanation:
+The catvehicle is a ROS Gazebo model of full sized Ford Escape which is operated through ROS messages. Simulation can be visualized using ROS Gazebo and RVIZ. Simulation Configurations can be modified and created based on demands of users. Tutorials on how to move the vehicle, examine simulation data, modify simulation configuration, and work with Simulink can be found from https://cps-vo.org/node/31792 
+
+
 # Explanation of modification:
 Few files were modified or created to demonstrate the Attack Detection simulation in urban environment 
 
