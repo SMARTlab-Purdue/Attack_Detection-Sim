@@ -1,8 +1,9 @@
 # Attack_Detection-Sim
-This repository contains the Matlab source code of attack detection algorithm for multi-agent / multi-robot system. Also, the ROS Gazebo simulation environments using multi-catvehicles are included. 
+This repository contains the Matlab source code of attack detection algorithm for multi-agent / multi-robot system. 
+The ROS Gazebo simulation using CAT Vehicle Testbed are modified to demonstrate attack detection senario on CAT vehicles at urban environments.
 
 # Copyrights
-All Copyright reserves to Jonathan Sprinkle, Sam Taylor, Alex Warren from Arizona Board of Regents 
+All Copyright of Catvehicle Testbed reserves to Jonathan Sprinkle, Sam Taylor, Alex Warren from Arizona Board of Regents 
 
 # Installation instructions
 1. Go to https://cps-vo.org/node/26602 
