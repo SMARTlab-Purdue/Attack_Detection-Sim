@@ -56,9 +56,9 @@ Few files were modified or created to demonstrate the Attack Detection simulatio
 3. URDF has been modified to set the desired orientation of catvehicle model in the map and to turn off the camera sensor displayed during simulation.
           
 # Usage instructions
-1. Download the catvehicle_multi.launch to catvehicle_ws/src/catvehicle/launch
-2. Download the catvehicle.xacro  catvehicle_left_camera.gazebo  catvehicle_right_camera.gazebo to catvehicle_ws/src/catvehicle/urdf          
-3. Download the Real_world_sim.world to catvehicle_ws/src/catvehicle/worlds
+1. Download the catvehicle_multi.launch to catvehicle_ws/src/catvehicle/launch folder 
+2. Download the catvehicle.xacro  catvehicle_left_camera.gazebo  catvehicle_right_camera.gazebo to catvehicle_ws/src/catvehicle/urdf folder 
+3. Download the Real_world_sim.world to catvehicle_ws/src/catvehicle/worlds folder 
 4. source the workspace using following command
             source catvehicle_ws/devel/setup.bash
 5. launch the simulation environment for multi-vehicle attact detection simulation using following command
