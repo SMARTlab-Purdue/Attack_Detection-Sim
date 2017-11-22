@@ -73,4 +73,16 @@ Few files were modified or created to demonstrate the Attack Detection simulatio
 
 # Contact
 
+For any queries, issues, and questions with Matlab Codes, please contact Sangjun Lee (lee1424 at purdue dot edu).
+For any queries, issues, and questions with modified ROS code, please contact Yongbum Cho (cho148 at purdue dot edu).
+
+
 # Authors
+
+Sangjun Lee (lee1424 at purdue dot edu)
+
+Yongbum Cho (cho148 at purdue dot edu)
+
+Byung-Cheol Min (minb at purdue dot edu): http://web.ics.purdue.edu/~minb/
+
+SMART Lab - Purdue University: http://www.smart-laboratory.org/
