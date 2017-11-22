@@ -18,6 +18,7 @@ All Copyright reserves to Jonathan Sprinkle, Sam Taylor, Alex Warren from Arizon
     b) Velodyne
     
           sudo apt-get install ros-indigo-velodyne
+          
     c) SICK Laser
     
           sudo apt-get install ros-indigo-sicktoolbox ros-indigo-sicktoolbox-wrapper
@@ -33,23 +34,16 @@ All Copyright reserves to Jonathan Sprinkle, Sam Taylor, Alex Warren from Arizon
 4. Create Workspace:
 
           cd ~
-          
-          mkdir -p catvehicle_ws/src
-          
-          cd catvehicle_ws/src
-          
+          mkdir -p catvehicle_ws/src          
+          cd catvehicle_ws/src     
           catkin_init_workspace
 
 5. Download the packages
 
-          cd ~/catvehicle_ws/src
-          
-          git clone https://github.com/sprinkjm/catvehicle.git
-          
-          git clone https://github.com/sprinkjm/obstaclestopper.git
-          
-          cd ../
-          
+          cd ~/catvehicle_ws/src          
+          git clone https://github.com/sprinkjm/catvehicle.git          
+          git clone https://github.com/sprinkjm/obstaclestopper.git          
+          cd ../          
           catkin_make
 
 A video demonstration for installation is also provided and accesssed from the link http://cps-vo.org/node/26625 
