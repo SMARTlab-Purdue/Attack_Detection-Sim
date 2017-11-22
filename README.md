@@ -67,7 +67,7 @@ Few files were modified or created to demonstrate the Attack Detection simulatio
             source catvehicle_ws/devel/setup.bash
 5. launch the simulation environment for multi-vehicle attact detection simulation using following command
             roslaunch catvehicle catvehicle_multi.launch
-6. Open Matlab and execute the file (matlab_file_name). If Matlab and ROS are operated at seperate laptop/PC, you must connect Matlab and ROS master first. Instruction on connecting matlab to ROS master can be found at https://www.mathworks.com/help/robotics/examples/connect-to-a-ros-network.html
+6. Open Matlab and execute the file (matlab_file_name). If Matlab and ROS are operated at seperate devices, you must connect Matlab and ROS first. Instruction on connecting Matlab to ROS can be found at https://www.mathworks.com/help/robotics/examples/connect-to-a-ros-network.html
 
 # Video demonstration
 
