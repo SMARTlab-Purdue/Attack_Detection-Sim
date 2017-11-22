@@ -46,7 +46,7 @@ All Copyright reserves to Jonathan Sprinkle, Sam Taylor, Alex Warren from Arizon
           cd ../          
           catkin_make
 
-A video demonstration for installation is also provided and accesssed from the link http://cps-vo.org/node/26625 
+A video demonstration for installation is also provided at http://cps-vo.org/node/26625 
 
 # Explanation of modification:
 Few files were modified or created to demonstrate the Attack Detection simulation in urban environment 
